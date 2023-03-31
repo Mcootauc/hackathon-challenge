@@ -1,0 +1,18 @@
+{
+  "name": "hackathon-challenge",
+  "version": "1.0.0",
+  "description": "- You are in a hackathon coding away with all you friends. A team member is stuck on developing a feature and faces an ambiguous error which puts the whole team in debugging mode in order to remove the blocker. That single blocker caused your team to lose time and you ended up losing the hackathon.  - One of your friends, frustrated, says that you should develop a tool that will help your team in the future. Specifically, help your team understand errors more easily.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}

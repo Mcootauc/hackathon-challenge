@@ -1,0 +1,13 @@
+{
+    "suggestions": [
+        {
+            "command_executed": "command",
+            "error": "error message",
+            "prompt": "What is fed to OpenAI (codex model performs well with code)",
+            "output": "Output from OpenAI"
+        },
+        {
+            
+        }
+    ]
+}
